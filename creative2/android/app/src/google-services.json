@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327891649337",
+    "firebase_url": "https://fir-lit-dd9ad.firebaseio.com",
+    "project_id": "fir-lit-dd9ad",
+    "storage_bucket": "fir-lit-dd9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327891649337:android:45dfe5f7753b0009965ee8",
+        "android_client_info": {
+          "package_name": "edu.uco.asiddharth.creative2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327891649337-4r1uagmhbqp9d417oc3ppr0r7vl90b3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoU9UxBVKjh5lYL-Gib41nqIXIxpIsmjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327891649337-4r1uagmhbqp9d417oc3ppr0r7vl90b3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
