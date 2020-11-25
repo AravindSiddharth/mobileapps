@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628389022036",
+    "firebase_url": "https://asiddharth-term.firebaseio.com",
+    "project_id": "asiddharth-term",
+    "storage_bucket": "asiddharth-term.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628389022036:android:30887d7f5306c52d54a0c1",
+        "android_client_info": {
+          "package_name": "edu.uco.asiddharth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628389022036-inhpb4bjqnbvincjbd1ca8911eara42t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18pguUD9AhL4VgyFkEMcCg5fuRX07Nt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628389022036-inhpb4bjqnbvincjbd1ca8911eara42t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628389022036-lbe7q7gicaeb1kssuab59frkk0m3gtas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uco.asiddharth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

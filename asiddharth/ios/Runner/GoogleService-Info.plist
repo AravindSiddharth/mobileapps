@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>628389022036-lbe7q7gicaeb1kssuab59frkk0m3gtas.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.628389022036-lbe7q7gicaeb1kssuab59frkk0m3gtas</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkMIY7eTYsbLTz8u2DEcP-CFXthxBynSs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>628389022036</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.uco.asiddharth</string>
+	<key>PROJECT_ID</key>
+	<string>asiddharth-term</string>
+	<key>STORAGE_BUCKET</key>
+	<string>asiddharth-term.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:628389022036:ios:6e7ab11715457cd154a0c1</string>
+	<key>DATABASE_URL</key>
+	<string>https://asiddharth-term.firebaseio.com</string>
+</dict>
+</plist>
